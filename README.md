@@ -1,2 +1,2 @@
-# DesafioProjeto_Fun-es_GFTStart
+# DesafioProjeto_Funcoes_GFTStart
 Desafio de projeto proposto pelo boothcamp de lógica de programação GFTStart
