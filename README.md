@@ -1,6 +1,9 @@
 # Desafio de Projeto: Funções 
 
-## Sobre o Autor
+## Autor
+
+ | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/138726084?v=4" width=115><br><sub>Italo Tavares</sub>](https://github.com/TavaresItalo) | 
+| :---: | :---: | :---: |  :---: |  :---: | 
 Me chamo Ítalo tenho 23 anos e atualmente sou aluno do 4° período do curso de Análise e Desenvolvimento de Sistemas no IFPE – Campus Paulista,  tenho uma grande paixão pela área de Tecnologia da Informação. Ao longo dos últimos meses, através do curso, tive a oportunidade de adquirir habilidades sólidas de programação em JAVA e Python e em linguagens de gerenciamento de bancos de dados como SQL. Além disso, estou comprometido em aprimorar minhas habilidades técnicas participando de bootcamps e, neste momento, estou buscando aprimorar minha proficiência em Python por meio da plataforma DIO.
 
 ## Bootcamp: Lógica de Programação GFT Start
@@ -23,4 +26,9 @@ Para executar o projeto em sua máquina local, siga os seguintes passos:
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/usuario/desafio-funcoes-gftstart.git
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/%C3%ADtalo-tavares-a9b873214)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/titotavares/)
+* Email para contato: tito2001@hotmail.com.br
 
