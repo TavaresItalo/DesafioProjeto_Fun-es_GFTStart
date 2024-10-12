@@ -1,7 +1,7 @@
 # Desafio de Projeto: Funções 
 
 ## Sobre o Autor
-Me chamo Ítalo tenho 23 anos e atualmente sou aluno do 4° período do curso de Análise e Desenvolvimento de Sistemas no IFPE – Campus Paulista, e tenho uma grande paixão pela área de Tecnologia da Informação. Ao longo dos últimos meses, através do curso, tive a oportunidade de adquirir habilidades sólidas de programação em JAVA e Python e em linguagens de gerenciamento de bancos de dados como SQL. Além disso, estou comprometido em aprimorar minhas habilidades técnicas participando de bootcamps e, neste momento, estou buscando aprimorar minha proficiência em Python por meio da plataforma DIO.
+Me chamo Ítalo tenho 23 anos e atualmente sou aluno do 4° período do curso de Análise e Desenvolvimento de Sistemas no IFPE – Campus Paulista,  tenho uma grande paixão pela área de Tecnologia da Informação. Ao longo dos últimos meses, através do curso, tive a oportunidade de adquirir habilidades sólidas de programação em JAVA e Python e em linguagens de gerenciamento de bancos de dados como SQL. Além disso, estou comprometido em aprimorar minhas habilidades técnicas participando de bootcamps e, neste momento, estou buscando aprimorar minha proficiência em Python por meio da plataforma DIO.
 
 ## Bootcamp: Lógica de Programação GFT Start
 Este repositório contém a solução do desafio de projeto sobre funções proposto no bootcamp **GFT Start** em parceria com a **Digital Innovation One (DIO)**.
